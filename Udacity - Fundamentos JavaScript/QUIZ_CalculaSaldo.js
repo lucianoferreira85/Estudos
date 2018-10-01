@@ -1,19 +1,3 @@
-DICA: Para imprimir o saldo da conta com pontos decimais (i.e. 325.00), 
-use o método .toFixed() e passe o número de pontos decimais que você quer usar. 
-Por exemplo, balance.toFixed(2) retorna 325.00.
-
-DICA: Certifique-se de testar seu código com diferentes valores. Por exemplo,
-Se checkBalance é igual a true e isActive é igual a false, então Your account is no longer active. deve ser impresso no console.
-
-DICA: Copie e cole os seguintes textos para evitar que ocorra erro de digitação:
-
-Thank you. Have a nice day!
-Your balance is $ .
-Your account is no longer active.
-Your account is empty.
-Your balance is negative. Please contact bank.
-
-
 /*
  * Programming Quiz - Checking Your Balance (3-5)
  */
