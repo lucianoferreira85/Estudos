@@ -10,6 +10,10 @@
  * Notes
  *   - use the variables `eatsPlants` and `eatsAnimals` in your ternary expressions
  *   - `if` statements aren't allowed ;-)
+ *
+ * Example Ternaty code
+ * condicional ? (se condicional é verdadeiro) : (se condicional é falso)
+ * 
  */
 
 // change the values of `eatsPlants` and `eatsAnimals` to test your code
