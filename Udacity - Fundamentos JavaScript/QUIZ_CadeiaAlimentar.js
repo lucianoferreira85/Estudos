@@ -20,6 +20,7 @@
 var eatsPlants = false;
 var eatsAnimals = true;
 
-var category = /* your code goes here */
+var category = eatsPlants ? true : false;
+    eatsPlants;
 
 console.log(category);
